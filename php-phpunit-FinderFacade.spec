@@ -16,7 +16,6 @@ BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.9.4
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.654
-BuildRequires:	rpmbuild(macros) >= 1.610
 Requires:	php-channel(pear.phpunit.de)
 Requires:	php-pear >= 1.3.14-2
 Requires:	php-symfony2-Finder >= 2.7.7
