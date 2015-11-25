@@ -1,0 +1,11 @@
+--- FinderFacade-1.1.0/usr/share/pear/SebastianBergmann/FinderFacade/autoload.php~	2015-11-26 00:26:24.000000000 +0200
++++ FinderFacade-1.1.0/usr/share/pear/SebastianBergmann/FinderFacade/autoload.php	2015-11-26 00:26:47.929100293 +0200
+@@ -41,7 +41,7 @@
+  * @since     File available since Release 1.0.0
+  */
+ 
+-require_once 'Symfony/Component/Finder/autoloader.php';
++require_once 'Symfony/Component/Finder/autoload.php';
+ require_once 'TheSeer/fDOMDocument/autoload.php';
+ 
+ // @codingStandardsIgnoreFile
