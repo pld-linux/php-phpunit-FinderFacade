@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	FinderFacade
-%include	/usr/lib/rpm/macros.php
 Summary:	Convenience wrapper for Symfony's Finder component
 Name:		php-phpunit-FinderFacade
 Version:	1.1.0
