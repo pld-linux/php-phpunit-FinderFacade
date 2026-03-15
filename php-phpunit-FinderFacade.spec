@@ -3,7 +3,7 @@
 Summary:	Convenience wrapper for Symfony's Finder component
 Name:		php-phpunit-FinderFacade
 Version:	1.1.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.phpunit.de/get/%{pearname}-%{version}.tgz
